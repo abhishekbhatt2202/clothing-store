@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
+
+.league-gothic{
+  font-family: "League Gothic", sans-serif;
+  font-size: 32px;
+}
+.oswald{
+  font-family: "Oswald", sans-serif;
+}
+body{
+  overflow-x: hidden;
+}
